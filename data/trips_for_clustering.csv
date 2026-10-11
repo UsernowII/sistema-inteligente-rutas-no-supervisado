@@ -1,0 +1,73 @@
+origin,destination,segments,origin_connections,destination_connections,origin_average_hops,destination_average_hops
+Portal Norte,Calle 100,1,1,2,4.125,3.25
+Portal Norte,Calle 72,2,1,2,4.125,2.625
+Portal Norte,Héroes,3,1,2,4.125,2.25
+Portal Norte,Calle 26,4,1,3,4.125,2.125
+Portal Norte,Museo Nacional,5,1,1,4.125,3.0
+Portal Norte,Ricaurte,5,1,2,4.125,2.5
+Portal Norte,Portal Américas,6,1,2,4.125,3.125
+Portal Norte,Bosa,7,1,1,4.125,4.0
+Calle 100,Portal Norte,1,2,1,3.25,4.125
+Calle 100,Calle 72,1,2,2,3.25,2.625
+Calle 100,Héroes,2,2,2,3.25,2.25
+Calle 100,Calle 26,3,2,3,3.25,2.125
+Calle 100,Museo Nacional,4,2,1,3.25,3.0
+Calle 100,Ricaurte,4,2,2,3.25,2.5
+Calle 100,Portal Américas,5,2,2,3.25,3.125
+Calle 100,Bosa,6,2,1,3.25,4.0
+Calle 72,Portal Norte,2,2,1,2.625,4.125
+Calle 72,Calle 100,1,2,2,2.625,3.25
+Calle 72,Héroes,1,2,2,2.625,2.25
+Calle 72,Calle 26,2,2,3,2.625,2.125
+Calle 72,Museo Nacional,3,2,1,2.625,3.0
+Calle 72,Ricaurte,3,2,2,2.625,2.5
+Calle 72,Portal Américas,4,2,2,2.625,3.125
+Calle 72,Bosa,5,2,1,2.625,4.0
+Héroes,Portal Norte,3,2,1,2.25,4.125
+Héroes,Calle 100,2,2,2,2.25,3.25
+Héroes,Calle 72,1,2,2,2.25,2.625
+Héroes,Calle 26,1,2,3,2.25,2.125
+Héroes,Museo Nacional,2,2,1,2.25,3.0
+Héroes,Ricaurte,2,2,2,2.25,2.5
+Héroes,Portal Américas,3,2,2,2.25,3.125
+Héroes,Bosa,4,2,1,2.25,4.0
+Calle 26,Portal Norte,4,3,1,2.125,4.125
+Calle 26,Calle 100,3,3,2,2.125,3.25
+Calle 26,Calle 72,2,3,2,2.125,2.625
+Calle 26,Héroes,1,3,2,2.125,2.25
+Calle 26,Museo Nacional,1,3,1,2.125,3.0
+Calle 26,Ricaurte,1,3,2,2.125,2.5
+Calle 26,Portal Américas,2,3,2,2.125,3.125
+Calle 26,Bosa,3,3,1,2.125,4.0
+Museo Nacional,Portal Norte,5,1,1,3.0,4.125
+Museo Nacional,Calle 100,4,1,2,3.0,3.25
+Museo Nacional,Calle 72,3,1,2,3.0,2.625
+Museo Nacional,Héroes,2,1,2,3.0,2.25
+Museo Nacional,Calle 26,1,1,3,3.0,2.125
+Museo Nacional,Ricaurte,2,1,2,3.0,2.5
+Museo Nacional,Portal Américas,3,1,2,3.0,3.125
+Museo Nacional,Bosa,4,1,1,3.0,4.0
+Ricaurte,Portal Norte,5,2,1,2.5,4.125
+Ricaurte,Calle 100,4,2,2,2.5,3.25
+Ricaurte,Calle 72,3,2,2,2.5,2.625
+Ricaurte,Héroes,2,2,2,2.5,2.25
+Ricaurte,Calle 26,1,2,3,2.5,2.125
+Ricaurte,Museo Nacional,2,2,1,2.5,3.0
+Ricaurte,Portal Américas,1,2,2,2.5,3.125
+Ricaurte,Bosa,2,2,1,2.5,4.0
+Portal Américas,Portal Norte,6,2,1,3.125,4.125
+Portal Américas,Calle 100,5,2,2,3.125,3.25
+Portal Américas,Calle 72,4,2,2,3.125,2.625
+Portal Américas,Héroes,3,2,2,3.125,2.25
+Portal Américas,Calle 26,2,2,3,3.125,2.125
+Portal Américas,Museo Nacional,3,2,1,3.125,3.0
+Portal Américas,Ricaurte,1,2,2,3.125,2.5
+Portal Américas,Bosa,1,2,1,3.125,4.0
+Bosa,Portal Norte,7,1,1,4.0,4.125
+Bosa,Calle 100,6,1,2,4.0,3.25
+Bosa,Calle 72,5,1,2,4.0,2.625
+Bosa,Héroes,4,1,2,4.0,2.25
+Bosa,Calle 26,3,1,3,4.0,2.125
+Bosa,Museo Nacional,4,1,1,4.0,3.0
+Bosa,Ricaurte,2,1,2,4.0,2.5
+Bosa,Portal Américas,1,1,2,4.0,3.125
